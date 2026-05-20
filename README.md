@@ -2,8 +2,6 @@
 **Module:** CIS4049-N | Artificial Intelligence Foundations  
 **Institution:** Teesside University  
 **Author:** Siri Chandana Dhurjati  
-**Academic Year:** 2023–2024  
-**Grade:** Distinction
 
 ---
 
